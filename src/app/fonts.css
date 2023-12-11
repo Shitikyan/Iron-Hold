@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Roboto Condensed";
+  src: url("../../public/fonts/roboto-condensed.woff") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
